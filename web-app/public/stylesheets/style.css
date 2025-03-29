@@ -1,0 +1,85 @@
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {
+  margin-bottom: 3rem;
+}
+
+.form-all {
+  margin-top: 3rem;
+}
+.inline {
+  /*display: inline;*/
+  color: rgba(255,255,255,.5);
+}
+.modal-body{
+  word-wrap: break-word;
+}
+
+.form-check {
+  margin-bottom: .5rem;
+}
+
+.cert-container {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  padding-top: .4rem;
+  padding-bottom: .4rem;
+}
+
+.upper-row{
+  margin-bottom: 1.5rem;
+}
+.middle-row{
+  margin-bottom: 1.5rem;
+}
+
+.list-group li {
+  list-style: none;
+}
+.panel-info, .panel-rating, .panel-more1 {
+  float: left;
+  margin: 0 10px;
+}
+
+.tab-width {
+  width: 300px;
+}
+
+.tab-width a {
+  color: #acadaf;
+}
+
+.nav-item a {
+  color: #acadaf;
+}
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+#jumbotron-index {
+  margin-top: 5rem;
+}
+
+td {
+  vertical-align: bottom;
+}
